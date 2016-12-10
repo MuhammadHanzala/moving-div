@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.sqr{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    top: 150px;
+    left: 120px;
+    bottom: 120px;
+    position: absolute;
+}
+.top{
+    margin-left: 32px;
+}
+.bottom{
+    margin-left: 22px;
+}
+.left{
+    margin-right: 20px;
+}
+
